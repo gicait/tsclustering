@@ -6,8 +6,6 @@
 
 ## Prepared By
 
-## Prepared By
-
 [Geoinformatics Center](https://ait.ac.th/centre/geoinformatics-center/), Asian Institute of Technology, Thailand
 
 ## Supported by
