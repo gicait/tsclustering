@@ -1,4 +1,4 @@
-# Time Series Data Clustering: Mapping Recent Plantation Expansion in “Oddar Meanchey” and “Kampong Thom” Provinces, Cambodia
+# Recent Expansions in Cashewut and Mango Plantations in Cambodia - Mapping from the Space
 
 ## Introduction
 
