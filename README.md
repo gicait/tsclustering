@@ -8,7 +8,7 @@ This project focuses on analyzing plantation expansion in Cambodia, specifically
 
 Follow either 'Notebook_KHM_KampongThom.ipynb' or 'Notebook_KHM_OddarMeanchey.ipynb'. Both were tested in [Google Colab](https://colab.research.google.com/) with data hosted on Google Drive. For more details, please refer to the 'cambodia_plantation_mapping_report.pdf'.
 
-This GEE app is also available with limited functionality for testing: [https://ee-lakmal.projects.earthengine.app/view/tsclustering](https://ee-lakmal.projects.earthengine.app/view/tsclustering)
+This GEE app is also available with limited functionality for testing: [https://dumpsite-map.projects.earthengine.app/view/gicaiapp](https://dumpsite-map.projects.earthengine.app/view/gicaiapp)
 
 ## Prepared By
 
